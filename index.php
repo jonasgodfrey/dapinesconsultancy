@@ -196,7 +196,20 @@
             </div>
             <!-- Contact Section End -->
 
+            <!------ Cta section ----->
+            <div class="rs-cta bg21 pt-90 pb-100 md-pt-68 md-pb-80">
+                <div class="container">
+                    <div class="sec-title text-center">
+                        <h2 class="title3 white-color">Your One Stop Business Solution From Idea to Industry.</h2>
+                        <div class="btn-part">
+                            <a class="readon banner-style" href="contact.php">Get started</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div> 
+        <!----- End Cta section ---->
+
         <!-- Main content End -->
 
 

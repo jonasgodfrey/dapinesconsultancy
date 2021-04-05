@@ -114,7 +114,7 @@
                                             <li class="menu-item-has-children">
                                                 Dapines.
                                             </li>
-                                                <li class="rs-mega-menu mega-rs menu-item-has-children current-menu-item"> <a href="index.php">Home</a>
+                                                <li class="rs-mega-menu mega-rs menu-item-has-children "> <a href="index.php">Home</a>
                                                     <ul class="mega-menu"> 
                                                         <li class="mega-menu-container">
                                                             <div class="mega-menu-innner">
