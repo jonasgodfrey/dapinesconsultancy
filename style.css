@@ -2728,8 +2728,8 @@ input[type=range]::-ms-fill-upper {
 }
 .full-width-header .rs-header .menu-area .logo-area {
   position: relative;
-  height: 115px;
-  line-height: 111px;
+  height: auto;
+line-height: 111px;
 }
 .full-width-header .rs-header .menu-area .logo-area img {
   transition: 0.4s;
@@ -3683,12 +3683,12 @@ body .modal-backdrop {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #228bfd;
+  background: #125092;
   z-index: -1;
   border-radius: 5px;
   -webkit-animation: fadeInUp 1s ease-in-out;
   animation: fadeInUp 1s ease-in-out;
-  opacity: 0.86;
+  opacity: 0.8;
 }
 .rs-slider.slider1 .nivoSlider .sl-ly-img {
   margin-left: 100px;
